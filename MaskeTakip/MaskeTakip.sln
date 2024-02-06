@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{EF33173D-4153-40E6-9D5B-8141A4C90A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{5922EAEC-E328-4CEB-9607-890447A30188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{E1BB88F1-1EB4-4FAB-8701-2C9CDCDB69E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF33173D-4153-40E6-9D5B-8141A4C90A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF33173D-4153-40E6-9D5B-8141A4C90A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF33173D-4153-40E6-9D5B-8141A4C90A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF33173D-4153-40E6-9D5B-8141A4C90A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5922EAEC-E328-4CEB-9607-890447A30188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5922EAEC-E328-4CEB-9607-890447A30188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5922EAEC-E328-4CEB-9607-890447A30188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5922EAEC-E328-4CEB-9607-890447A30188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BB88F1-1EB4-4FAB-8701-2C9CDCDB69E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BB88F1-1EB4-4FAB-8701-2C9CDCDB69E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BB88F1-1EB4-4FAB-8701-2C9CDCDB69E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BB88F1-1EB4-4FAB-8701-2C9CDCDB69E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88BA3960-DFBA-48E2-9C26-3CEDEDA36AF9}
+	EndGlobalSection
+EndGlobal
