@@ -1,0 +1,7 @@
+D:\C#_Bootcamp\KodlamaIODemo\KodlamaIODemo\bin\Debug\KodlamaIODemo.exe.config
+D:\C#_Bootcamp\KodlamaIODemo\KodlamaIODemo\bin\Debug\KodlamaIODemo.exe
+D:\C#_Bootcamp\KodlamaIODemo\KodlamaIODemo\bin\Debug\KodlamaIODemo.pdb
+D:\C#_Bootcamp\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.csproj.AssemblyReference.cache
+D:\C#_Bootcamp\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.csproj.CoreCompileInputs.cache
+D:\C#_Bootcamp\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.exe
+D:\C#_Bootcamp\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.pdb
